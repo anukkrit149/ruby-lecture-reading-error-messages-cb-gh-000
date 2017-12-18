@@ -1,4 +1,4 @@
 x=42 / 6
 puts x
-y=42 / 0
+y=42 / 7
 puts y
