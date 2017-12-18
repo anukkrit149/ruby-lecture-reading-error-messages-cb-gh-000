@@ -1,4 +1,3 @@
-int x=42 / 6
-puts x
-int y=42 / 7
-puts y
+puts 42 / 6
+
+puts 42 / 7
